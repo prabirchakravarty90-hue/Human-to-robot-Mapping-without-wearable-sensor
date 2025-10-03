@@ -25,4 +25,7 @@ V+ → Servo power (red, 5–6V external supply)
 GND → Servo ground (black/brown)
 
 
-![robot 3d figure](robot hand figure.jpeg)
+## 🤖 Robot Hand
+
+![Robot Hand](./robot%20hand%20figure.jpeg)
+
