@@ -23,3 +23,6 @@ PCA9685 → Servo Motors
 PWM pins → Servo signal (orange/yellow)
 V+ → Servo power (red, 5–6V external supply)
 GND → Servo ground (black/brown)
+
+
+![robot 3d figure]()
